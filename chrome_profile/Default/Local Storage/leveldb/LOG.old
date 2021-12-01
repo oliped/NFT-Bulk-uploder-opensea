@@ -1,0 +1,30 @@
+2021/11/28-23:58:52.228 3060 Reusing MANIFEST D:\Silicon-Tech-Projects\OpenseaNFT-BulkCreation\NFTs-Upload-to-OpenSea\chrome_profile\Default\Local Storage\leveldb/MANIFEST-000001
+2021/11/28-23:58:52.230 3060 Recovering log #26
+2021/11/28-23:58:52.231 3060 Reusing old log D:\Silicon-Tech-Projects\OpenseaNFT-BulkCreation\NFTs-Upload-to-OpenSea\chrome_profile\Default\Local Storage\leveldb/000026.log 
+2021/11/29-02:02:28.056 17ac Level-0 table #31: started
+2021/11/29-02:02:28.148 17ac Level-0 table #31: 20179 bytes OK
+2021/11/29-02:02:28.190 17ac Delete type=0 #26
+2021/11/29-02:49:54.362 2a0c Level-0 table #33: started
+2021/11/29-02:49:54.419 2a0c Level-0 table #33: 21283 bytes OK
+2021/11/29-02:49:54.526 2a0c Delete type=0 #30
+2021/11/29-04:00:23.009 3a4 Level-0 table #35: started
+2021/11/29-04:00:23.081 3a4 Level-0 table #35: 17710 bytes OK
+2021/11/29-04:00:23.114 3a4 Delete type=0 #32
+2021/11/29-04:03:57.154 429c Level-0 table #37: started
+2021/11/29-04:03:57.305 429c Level-0 table #37: 19208 bytes OK
+2021/11/29-04:03:57.376 429c Delete type=0 #34
+2021/11/29-04:03:57.378 429c Compacting 4@0 + 1@1 files
+2021/11/29-04:03:57.448 429c Generated table #38@0: 241 keys, 11550 bytes
+2021/11/29-04:03:57.448 429c Compacted 4@0 + 1@1 files => 11550 bytes
+2021/11/29-04:03:57.529 429c compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/11/29-04:03:57.577 429c Delete type=2 #28
+2021/11/29-04:03:57.578 429c Delete type=2 #31
+2021/11/29-04:03:57.578 429c Delete type=2 #33
+2021/11/29-04:03:57.578 429c Delete type=2 #35
+2021/11/29-04:03:57.578 429c Delete type=2 #37
+2021/11/29-04:30:52.269 37fc Level-0 table #40: started
+2021/11/29-04:30:52.324 37fc Level-0 table #40: 17300 bytes OK
+2021/11/29-04:30:52.351 37fc Delete type=0 #36
+2021/11/29-04:48:27.269 2194 Level-0 table #42: started
+2021/11/29-04:48:27.331 2194 Level-0 table #42: 20821 bytes OK
+2021/11/29-04:48:27.362 2194 Delete type=0 #39

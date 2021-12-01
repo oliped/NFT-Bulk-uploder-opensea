@@ -1,0 +1,93 @@
+2021/11/30-03:20:47.872 4090 Reusing MANIFEST D:\Silicon-Tech-Projects\OpenseaNFT-BulkCreation\NFTs-Upload-to-OpenSea\chrome_profile\Default\Local Extension Settings\nkbihfbeogaeaoehlefnkodbefgpgknn/MANIFEST-000001
+2021/11/30-03:20:47.899 4090 Recovering log #326
+2021/11/30-03:20:48.735 4090 Reusing old log D:\Silicon-Tech-Projects\OpenseaNFT-BulkCreation\NFTs-Upload-to-OpenSea\chrome_profile\Default\Local Extension Settings\nkbihfbeogaeaoehlefnkodbefgpgknn/000326.log 
+2021/11/30-03:21:53.925 3074 Level-0 table #331: started
+2021/11/30-03:21:54.344 3074 Level-0 table #331: 1481797 bytes OK
+2021/11/30-03:21:54.591 3074 Delete type=0 #326
+2021/11/30-03:25:14.069 47c4 Level-0 table #333: started
+2021/11/30-03:25:14.170 47c4 Level-0 table #333: 1481263 bytes OK
+2021/11/30-03:25:14.207 47c4 Delete type=0 #330
+2021/11/30-03:25:43.485 e1c Level-0 table #335: started
+2021/11/30-03:25:43.705 e1c Level-0 table #335: 1480811 bytes OK
+2021/11/30-03:25:43.746 e1c Delete type=0 #332
+2021/11/30-03:26:12.181 26e4 Level-0 table #337: started
+2021/11/30-03:26:12.270 26e4 Level-0 table #337: 1481122 bytes OK
+2021/11/30-03:26:12.296 26e4 Delete type=0 #334
+2021/11/30-03:26:12.296 26e4 Compacting 4@0 + 1@1 files
+2021/11/30-03:26:12.348 26e4 Generated table #338@0: 1 keys, 246933 bytes
+2021/11/30-03:26:12.348 26e4 Compacted 4@0 + 1@1 files => 246933 bytes
+2021/11/30-03:26:12.373 26e4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/11/30-03:26:12.374 26e4 Delete type=2 #328
+2021/11/30-03:26:12.374 26e4 Delete type=2 #331
+2021/11/30-03:26:12.374 26e4 Delete type=2 #333
+2021/11/30-03:26:12.374 26e4 Delete type=2 #335
+2021/11/30-03:26:12.374 26e4 Delete type=2 #337
+2021/11/30-03:38:48.055 1f38 Level-0 table #340: started
+2021/11/30-03:38:48.152 1f38 Level-0 table #340: 1481105 bytes OK
+2021/11/30-03:38:48.179 1f38 Delete type=0 #336
+2021/11/30-03:39:18.105 381c Level-0 table #342: started
+2021/11/30-03:39:18.184 381c Level-0 table #342: 1481013 bytes OK
+2021/11/30-03:39:18.222 381c Delete type=0 #339
+2021/11/30-03:39:41.758 1f38 Level-0 table #344: started
+2021/11/30-03:39:41.848 1f38 Level-0 table #344: 1480873 bytes OK
+2021/11/30-03:39:41.874 1f38 Delete type=0 #341
+2021/11/30-03:40:04.897 3dd0 Level-0 table #346: started
+2021/11/30-03:40:04.980 3dd0 Level-0 table #346: 1480663 bytes OK
+2021/11/30-03:40:05.006 3dd0 Delete type=0 #343
+2021/11/30-03:40:05.006 3dd0 Compacting 4@0 + 1@1 files
+2021/11/30-03:40:05.069 3dd0 Generated table #347@0: 1 keys, 246792 bytes
+2021/11/30-03:40:05.069 3dd0 Compacted 4@0 + 1@1 files => 246792 bytes
+2021/11/30-03:40:05.094 3dd0 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/11/30-03:40:05.094 3dd0 Delete type=2 #338
+2021/11/30-03:40:05.095 3dd0 Delete type=2 #340
+2021/11/30-03:40:05.095 3dd0 Delete type=2 #342
+2021/11/30-03:40:05.095 3dd0 Delete type=2 #344
+2021/11/30-03:40:05.095 3dd0 Delete type=2 #346
+2021/11/30-03:44:26.186 183c Level-0 table #349: started
+2021/11/30-03:44:26.322 183c Level-0 table #349: 1481102 bytes OK
+2021/11/30-03:44:26.382 183c Delete type=0 #345
+2021/11/30-03:44:55.676 1f38 Level-0 table #351: started
+2021/11/30-03:44:55.777 1f38 Level-0 table #351: 1480565 bytes OK
+2021/11/30-03:44:55.804 1f38 Delete type=0 #348
+2021/11/30-03:45:26.742 216c Level-0 table #353: started
+2021/11/30-03:45:26.852 216c Level-0 table #353: 1480796 bytes OK
+2021/11/30-03:45:26.934 216c Delete type=0 #350
+2021/11/30-03:45:55.788 4d4 Level-0 table #355: started
+2021/11/30-03:45:55.896 4d4 Level-0 table #355: 1480340 bytes OK
+2021/11/30-03:45:55.955 4d4 Delete type=0 #352
+2021/11/30-03:45:55.956 4d4 Compacting 4@0 + 1@1 files
+2021/11/30-03:45:56.154 4d4 Generated table #356@0: 1 keys, 246773 bytes
+2021/11/30-03:45:56.154 4d4 Compacted 4@0 + 1@1 files => 246773 bytes
+2021/11/30-03:45:56.199 4d4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/11/30-03:45:56.200 4d4 Delete type=2 #347
+2021/11/30-03:45:56.200 4d4 Delete type=2 #349
+2021/11/30-03:45:56.200 4d4 Delete type=2 #351
+2021/11/30-03:45:56.200 4d4 Delete type=2 #353
+2021/11/30-03:45:56.200 4d4 Delete type=2 #355
+2021/11/30-03:46:21.085 216c Level-0 table #358: started
+2021/11/30-03:46:21.361 216c Level-0 table #358: 1481000 bytes OK
+2021/11/30-03:46:21.427 216c Delete type=0 #354
+2021/11/30-03:46:41.793 3d88 Level-0 table #360: started
+2021/11/30-03:46:41.881 3d88 Level-0 table #360: 1481933 bytes OK
+2021/11/30-03:46:42.118 3d88 Delete type=0 #357
+2021/11/30-03:47:21.868 1f38 Level-0 table #362: started
+2021/11/30-03:47:21.964 1f38 Level-0 table #362: 1481371 bytes OK
+2021/11/30-03:47:22.002 1f38 Delete type=0 #359
+2021/11/30-03:47:49.118 16fc Level-0 table #364: started
+2021/11/30-03:47:49.212 16fc Level-0 table #364: 1481354 bytes OK
+2021/11/30-03:47:49.237 16fc Delete type=0 #361
+2021/11/30-03:47:49.239 16fc Compacting 4@0 + 1@1 files
+2021/11/30-03:47:49.311 16fc Generated table #365@0: 1 keys, 246963 bytes
+2021/11/30-03:47:49.311 16fc Compacted 4@0 + 1@1 files => 246963 bytes
+2021/11/30-03:47:49.336 16fc compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/11/30-03:47:49.336 16fc Delete type=2 #356
+2021/11/30-03:47:49.336 16fc Delete type=2 #358
+2021/11/30-03:47:49.336 16fc Delete type=2 #360
+2021/11/30-03:47:49.336 16fc Delete type=2 #362
+2021/11/30-03:47:49.336 16fc Delete type=2 #364
+2021/11/30-03:48:18.713 16fc Level-0 table #367: started
+2021/11/30-03:48:18.798 16fc Level-0 table #367: 1480987 bytes OK
+2021/11/30-03:48:18.836 16fc Delete type=0 #363
+2021/11/30-03:48:47.881 4358 Level-0 table #369: started
+2021/11/30-03:48:47.954 4358 Level-0 table #369: 1481086 bytes OK
+2021/11/30-03:48:47.980 4358 Delete type=0 #366

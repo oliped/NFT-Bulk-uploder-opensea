@@ -1,0 +1,18 @@
+2021/11/27-05:24:18.212 1f20 Creating DB D:\Silicon-Tech-Projects\OpenseaNFT-BulkCreation\NFTs-Upload-to-OpenSea\chrome_profile\Default\IndexedDB\https_autofarm.gitbook.io_0.indexeddb.leveldb since it was missing.
+2021/11/27-05:24:18.315 1f20 Reusing MANIFEST D:\Silicon-Tech-Projects\OpenseaNFT-BulkCreation\NFTs-Upload-to-OpenSea\chrome_profile\Default\IndexedDB\https_autofarm.gitbook.io_0.indexeddb.leveldb/MANIFEST-000001
+2021/11/27-05:24:19.047 48d0 Level-0 table #5: started
+2021/11/27-05:24:19.226 48d0 Level-0 table #5: 1432 bytes OK
+2021/11/27-05:24:19.535 48d0 Delete type=0 #3
+2021/11/27-05:24:19.535 48d0 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/11/27-05:29:06.948 2330 Level-0 table #7: started
+2021/11/27-05:29:06.975 2330 Level-0 table #7: 1838 bytes OK
+2021/11/27-05:29:07.026 2330 Delete type=0 #4
+2021/11/27-05:29:07.027 2330 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/11/27-05:29:07.027 2330 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x03\x01\x02\x013\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x009\x005\x008\x002\x008\x005\x005\x008\x003\x000\x004\x003\x00:\x00w\x00e\x00b\x00:\x009\x00c\x008\x000\x004\x007\x005\x00f\x00a\x00a\x008\x00b\x00c\x009\x00f\x009\x00c\x00b\x000\x008\x007\x006' @ 123 : 1
+2021/11/27-05:29:07.027 2330 Compacting 1@1 + 1@2 files
+2021/11/27-05:29:07.048 2330 Generated table #8@1: 38 keys, 1537 bytes
+2021/11/27-05:29:07.048 2330 Compacted 1@1 + 1@2 files => 1537 bytes
+2021/11/27-05:29:07.081 2330 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/11/27-05:29:07.082 2330 Delete type=2 #5
+2021/11/27-05:29:07.082 2330 Delete type=2 #7
+2021/11/27-05:29:07.082 2330 Manual compaction at level-1 from '\x00\x03\x01\x02\x013\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x009\x005\x008\x002\x008\x005\x005\x008\x003\x000\x004\x003\x00:\x00w\x00e\x00b\x00:\x009\x00c\x008\x000\x004\x007\x005\x00f\x00a\x00a\x008\x00b\x00c\x009\x00f\x009\x00c\x00b\x000\x008\x007\x006' @ 123 : 1 .. (end); will stop at (end)

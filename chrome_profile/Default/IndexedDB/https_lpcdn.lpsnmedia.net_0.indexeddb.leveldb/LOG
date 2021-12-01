@@ -1,0 +1,6 @@
+2021/11/26-11:51:57.878 1e58 Creating DB D:\Silicon-Tech-Projects\OpenseaNFT-BulkCreation\NFTs-Upload-to-OpenSea\chrome_profile\Default\IndexedDB\https_lpcdn.lpsnmedia.net_0.indexeddb.leveldb since it was missing.
+2021/11/26-11:51:58.677 1e58 Reusing MANIFEST D:\Silicon-Tech-Projects\OpenseaNFT-BulkCreation\NFTs-Upload-to-OpenSea\chrome_profile\Default\IndexedDB\https_lpcdn.lpsnmedia.net_0.indexeddb.leveldb/MANIFEST-000001
+2021/11/26-17:17:03.034 1ee0 Level-0 table #5: started
+2021/11/26-17:17:03.418 1ee0 Level-0 table #5: 1102 bytes OK
+2021/11/26-17:17:03.561 1ee0 Delete type=0 #3
+2021/11/26-17:17:03.562 1ee0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
