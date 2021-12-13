@@ -1,2 +1,2 @@
 # NFT-Bulk-uploder-opensea
- Python tkineter selenium web driver NFT bulk upload with GUI 
+ Python tkinter selenium web driver NFT bulk upload with GUI 
